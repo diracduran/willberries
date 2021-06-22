@@ -1,0 +1,1604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ju",
+				"justify-content-end"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"co",
+				"content\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"j",
+				"justify-content-end"
+			],
+			[
+				"a",
+				"align-items-center"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"tet",
+				"text-decoration\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"f",
+				"font-weight\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"butt",
+				"button-price"
+			],
+			[
+				"te",
+				"text-light"
+			],
+			[
+				"trasf",
+				"transform\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"le",
+				"letter-content__body_left"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"la",
+				"layout-04"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"l",
+				"layout-03"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"g",
+				"green"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"lay",
+				"layout-06"
+			],
+			[
+				"lau",
+				"layout-12"
+			],
+			[
+				"fs",
+				"font-size\tproperty"
+			],
+			[
+				"t",
+				"transition"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"ob",
+				"object-position\tproperty"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"sec",
+				"section-title"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"section",
+				"section-title"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"lin",
+				"letter-spacing\tproperty"
+			],
+			[
+				"inli",
+				"inline-flex\tdisplay"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"mt",
+				"margin-top\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.html",
+			"settings":
+			{
+				"buffer_size": 9773,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 17432,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main-script.js",
+			"settings":
+			{
+				"buffer_size": 286,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/style.less",
+			"settings":
+			{
+				"buffer_size": 112,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/common.less",
+			"settings":
+			{
+				"buffer_size": 1034,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/colors.less",
+			"settings":
+			{
+				"buffer_size": 631,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/header.less",
+			"settings":
+			{
+				"buffer_size": 718,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/main.less",
+			"settings":
+			{
+				"buffer_size": 11660,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/footer.less",
+			"settings":
+			{
+				"buffer_size": 2688,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lisa/Desktop/willberries/less/fonts.less",
+		"/C/Users/Lisa/Desktop/willberries/less/common.less",
+		"/C/Users/Lisa/Desktop/willberries/less/nav.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/footer.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/main.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/nav.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/header.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/common.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/fonts.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/colors.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/style.less",
+		"/C/Users/Lisa/Desktop/вилбериз/style.css",
+		"/C/Users/Lisa/Desktop/вилбериз/main.html",
+		"/C/Users/Lisa/Desktop/вилбериз/bootstrap/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css",
+		"/C/Users/Lisa/Desktop/вилбериз/index.html",
+		"/C/Users/Lisa/Desktop/письма/less/letter.less",
+		"/C/Users/Lisa/Desktop/письма/less/common.less",
+		"/C/Users/Lisa/Desktop/письма/less/colors.less",
+		"/C/Users/Lisa/Desktop/письма/less/style.less",
+		"/C/Users/Lisa/Desktop/письма/style.css",
+		"/C/Users/Lisa/Desktop/письма/letter.html",
+		"/C/Users/Lisa/Desktop/письма/less/fonts.less",
+		"/C/Users/Lisa/Desktop/sirius/less/fonts.less",
+		"/C/Users/Lisa/Desktop/sirius/less/common.less",
+		"/C/Users/Lisa/Desktop/sirius/less/colors.less",
+		"/C/Users/Lisa/Desktop/sirius/less/style.less",
+		"/C/Users/Lisa/Desktop/письма/letter.sublime-project",
+		"/C/Users/Lisa/Desktop/письма/letter.css",
+		"/C/Users/Lisa/Desktop/sirius/less/footer.less",
+		"/C/Users/Lisa/Desktop/sirius/less/header.less",
+		"/C/Users/Lisa/Desktop/sirius/less/main.less",
+		"/C/Users/Lisa/Desktop/sirius/less/inner-page.less",
+		"/C/Users/Lisa/Desktop/sirius/less/nav.less",
+		"/C/Users/Lisa/Desktop/sirius/less/price.less",
+		"/C/Users/Lisa/Desktop/sirius/less/services.less",
+		"/C/Users/Lisa/Desktop/sirius/less/tabs.less",
+		"/C/Users/Lisa/Desktop/sirius/less/accordion.less",
+		"/C/Users/Lisa/Desktop/sirius/style.css",
+		"/C/Users/Lisa/Desktop/sirius/inner-page.html",
+		"/C/Users/Lisa/Desktop/sirius/services.html",
+		"/C/Users/Lisa/Desktop/sirius/price.html",
+		"/C/Users/Lisa/Desktop/sirius/index.html",
+		"/C/Users/Lisa/Desktop/sirius/php/page-price.php",
+		"/C/Users/Lisa/Desktop/sirius/php/footer.php",
+		"/C/Users/Lisa/Desktop/footer.php",
+		"/C/Users/Lisa/Desktop/page-price.php",
+		"/C/Users/Lisa/Desktop/accordion.less",
+		"/C/Users/Lisa/Desktop/tabs.less",
+		"/C/Users/Lisa/Desktop/sirius/main.css",
+		"/C/Users/Lisa/Desktop/harlamov/less/footer.less",
+		"/C/Users/Lisa/Desktop/harlamov/less/about.less",
+		"/C/Users/Lisa/Desktop/harlamov/less/zakaz.less",
+		"/C/Users/Lisa/Desktop/harlamov/less/main.less",
+		"/C/Users/Lisa/Desktop/harlamov/less/header.less",
+		"/C/Users/Lisa/Desktop/harlamov/less/fonts.less",
+		"/C/Users/Lisa/Desktop/harlamov/less/colors.less",
+		"/C/Users/Lisa/Desktop/harlamov/less/common.less",
+		"/C/Users/Lisa/Desktop/harlamov/less/style.less",
+		"/C/Users/Lisa/Desktop/harlamov/js/slick/slick-settings.js",
+		"/C/Users/Lisa/Desktop/harlamov/style.css",
+		"/C/Users/Lisa/Desktop/harlamov/about.html",
+		"/C/Users/Lisa/Desktop/harlamov/zakaz.html",
+		"/C/Users/Lisa/Desktop/harlamov/index.html",
+		"/C/Users/Lisa/Desktop/harlamov/about.css",
+		"/C/Users/Lisa/Desktop/harlamov/zakaz.css",
+		"/C/Users/Lisa/Desktop/harlamov/less/nav.less",
+		"/C/Users/Lisa/Downloads/webfontkit-20201228-134628/stylesheet.css",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/style.less",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/footer.less",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/arenda-page.less",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/page.less",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/nav.less",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/header.less",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/fonts.less",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/colors.less",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/common.less",
+		"/C/Users/Lisa/Desktop/real-1.ru/style.css",
+		"/C/Users/Lisa/Desktop/real-1.ru/arenda.html",
+		"/C/Users/Lisa/Desktop/real-1.ru/index.html",
+		"/C/Users/Lisa/Desktop/real-1.ru/less/main.less",
+		"/C/Users/Lisa/Desktop/десигн/style.css",
+		"/C/Users/Lisa/Desktop/десигн/main-page.html",
+		"/C/Users/Lisa/Desktop/десигн/mail-page.html",
+		"/C/Users/Lisa/Desktop/тсж/gall-page.html",
+		"/C/Users/Lisa/Desktop/тсж/gallery.html",
+		"/C/Users/Lisa/Desktop/тсж/info.html",
+		"/C/Users/Lisa/Desktop/тсж/chat.html",
+		"/C/Users/Lisa/Desktop/тсж/money.html",
+		"/C/Users/Lisa/Desktop/тсж/ads.html",
+		"/C/Users/Lisa/Desktop/тсж/index.html",
+		"/C/Users/Lisa/Desktop/тсж/history.html",
+		"/C/Users/Lisa/Desktop/тсж/direction.html",
+		"/C/Users/Lisa/Desktop/colors.less",
+		"/C/Users/Lisa/Desktop/тсж/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"important",
+			"0",
+			";\n",
+			"blue",
+			"@blue",
+			"{\n",
+			"bottom"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2109,
+								2109
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Base16 Color Schemes/Themes/base16-black-metal-nile.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color|hsla?|lch|lab|hwb|rgba?)\\(|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1617356032.93,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 703.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+								"#4592ffff",
+								"#939699ff",
+								"#b4d1e0ff",
+								"#ffffffff"
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"hwba",
+									"graya",
+									"hwb",
+									"hex_compressed",
+									"hsl",
+									"hex",
+									"hexa",
+									"rgb",
+									"hexa_compressed",
+									"webcolors",
+									"rgba",
+									"gray"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".css",
+								"current_syntax": "CSS/CSS",
+								"enabled": true,
+								"last_updated": 1611741547.27,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main-script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1611912649.13
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "less/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"hex_compressed",
+									"hsl",
+									"hex",
+									"rgb",
+									"webcolors",
+									"rgba"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".less",
+								"current_syntax": "LESS/Syntaxes/LESS",
+								"enabled": true,
+								"last_updated": 1611741547.27,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"constant.other.color.rgb-value.css",
+									"constant.color.w3c-standard-color-name.css",
+									"meta.property-value.css"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "less/common.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1013,
+								1013
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hex",
+									"hsla",
+									"hex_compressed",
+									"hsl"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".less",
+								"current_syntax": "LESS/Syntaxes/LESS",
+								"enabled": true,
+								"last_updated": 1611912649.13,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"constant.other.color.rgb-value.css",
+									"constant.color.w3c-standard-color-name.css",
+									"meta.property-value.css"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "less/colors.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+								"#000000ff",
+								"#00a4c3ff",
+								"#1ebea54C@1",
+								"#1ebea5ff",
+								"#222222ff",
+								"#262d33ff",
+								"#2d2d2dff",
+								"#3dc47eff",
+								"#4592ffff",
+								"#4b5157ff",
+								"#4caf507F@1",
+								"#4caf50ff",
+								"#8f79d4ff",
+								"#939699ff",
+								"#999999ff",
+								"#b4d1e0ff",
+								"#c40000ff",
+								"#e5e5e5ff",
+								"#ede2d1ff",
+								"#f3f3f3ff",
+								"#f780a8ff",
+								"#fdcb6e33@1",
+								"#fdcb6eff",
+								"#ffffff99@1",
+								"#ffffffff"
+							],
+							"color_helper.popup_active": false,
+							"color_helper.popup_auto": true,
+							"color_helper.preview_meta":
+							{
+								"117":
+								[
+									324597621,
+									21,
+									"rgba",
+									1290080314,
+									5,
+									"1611919345.004288"
+								],
+								"148":
+								[
+									1726749335,
+									7,
+									"hex",
+									-1764418345,
+									6,
+									"1611919345.027551"
+								],
+								"164":
+								[
+									-1635659707,
+									7,
+									"hex",
+									-1764418345,
+									7,
+									"1611919345.037163"
+								],
+								"212":
+								[
+									-904674637,
+									7,
+									"hex",
+									-1764418345,
+									8,
+									"1611919345.050179"
+								],
+								"22":
+								[
+									238002946,
+									7,
+									"hex",
+									-1764418345,
+									2,
+									"1611919344.97563"
+								],
+								"234":
+								[
+									-778887147,
+									7,
+									"hex",
+									-1764418345,
+									9,
+									"1611919345.059793"
+								],
+								"262":
+								[
+									2102511502,
+									22,
+									"rgba",
+									1290080314,
+									28,
+									"1611919698.616532"
+								],
+								"301":
+								[
+									-2011058075,
+									20,
+									"rgba",
+									1290080314,
+									11,
+									"1611919345.081533"
+								],
+								"337":
+								[
+									-371392434,
+									7,
+									"hex",
+									-1764418345,
+									12,
+									"1611919345.09213"
+								],
+								"353":
+								[
+									-752915752,
+									4,
+									"hex_compressed",
+									-1764418345,
+									13,
+									"1611919345.10121"
+								],
+								"371":
+								[
+									1746193449,
+									7,
+									"hex",
+									-1764418345,
+									14,
+									"1611919345.111393"
+								],
+								"388":
+								[
+									2092573697,
+									4,
+									"hex_compressed",
+									-1764418345,
+									15,
+									"1611919345.120273"
+								],
+								"409":
+								[
+									-1167713406,
+									21,
+									"rgba",
+									1290080314,
+									16,
+									"1611919345.132694"
+								],
+								"43":
+								[
+									1726749335,
+									7,
+									"hex",
+									-1764418345,
+									3,
+									"1611919344.984935"
+								],
+								"440":
+								[
+									1237231099,
+									4,
+									"hex_compressed",
+									-1764418345,
+									17,
+									"1611919345.143262"
+								],
+								"459":
+								[
+									-11337226,
+									7,
+									"hex",
+									-1764418345,
+									18,
+									"1611919345.152094"
+								],
+								"477":
+								[
+									-1080169619,
+									4,
+									"hex_compressed",
+									-1764418345,
+									19,
+									"1611919345.161425"
+								],
+								"511":
+								[
+									-1856875637,
+									7,
+									"hex",
+									-1764418345,
+									20,
+									"1611919345.171161"
+								],
+								"528":
+								[
+									-963819904,
+									7,
+									"hex",
+									-1764418345,
+									21,
+									"1611919345.181449"
+								],
+								"548":
+								[
+									-539425600,
+									7,
+									"hex",
+									-1764418345,
+									22,
+									"1611919345.189757"
+								],
+								"566":
+								[
+									1469356720,
+									7,
+									"hex",
+									-1764418345,
+									23,
+									"1611919345.199048"
+								],
+								"585":
+								[
+									-736986124,
+									7,
+									"hex",
+									-1764418345,
+									24,
+									"1611919345.209452"
+								],
+								"6":
+								[
+									-1238551491,
+									7,
+									"hex",
+									-1764418345,
+									29,
+									"1611919700.101315"
+								],
+								"605":
+								[
+									-941858096,
+									7,
+									"hex",
+									-1764418345,
+									25,
+									"1611919345.218594"
+								],
+								"623":
+								[
+									-303596122,
+									7,
+									"hex",
+									-1764418345,
+									26,
+									"1611919345.228101"
+								],
+								"92":
+								[
+									433680626,
+									7,
+									"hex",
+									-1764418345,
+									4,
+									"1611919344.994269"
+								]
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hex",
+									"hsla",
+									"hex_compressed",
+									"hsl"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".less",
+								"current_syntax": "LESS/Syntaxes/LESS",
+								"enabled": true,
+								"last_updated": 1611912649.13,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"constant.other.color.rgb-value.css",
+									"constant.color.w3c-standard-color-name.css",
+									"meta.property-value.css"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "less/header.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								650,
+								650
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hex",
+									"hsla",
+									"hex_compressed",
+									"hsl"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".less",
+								"current_syntax": "LESS/Syntaxes/LESS",
+								"enabled": true,
+								"last_updated": 1611912649.13,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"constant.other.color.rgb-value.css",
+									"constant.color.w3c-standard-color-name.css",
+									"meta.property-value.css"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "less/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10696,
+								10696
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+								"#ccd5e6ff",
+								"#e3e2e3ff",
+								"#ff4f52ff"
+							],
+							"color_helper.preview_meta":
+							{
+								"10220":
+								[
+									-261156833,
+									7,
+									"hex",
+									-1764418345,
+									13,
+									"1611929434.602107"
+								],
+								"3015":
+								[
+									1659807753,
+									7,
+									"hex",
+									-1764418345,
+									1,
+									"1611916240.839371"
+								],
+								"3159":
+								[
+									1659807753,
+									7,
+									"hex",
+									-1764418345,
+									2,
+									"1611916240.931806"
+								],
+								"3982":
+								[
+									706284550,
+									7,
+									"hex",
+									-1764418345,
+									3,
+									"1611922802.968015"
+								],
+								"4799":
+								[
+									-261156833,
+									7,
+									"hex",
+									-1764418345,
+									4,
+									"1611922803.353842"
+								],
+								"8944":
+								[
+									1659807753,
+									7,
+									"hex",
+									-1764418345,
+									9,
+									"1611927242.344199"
+								],
+								"9093":
+								[
+									1659807753,
+									7,
+									"hex",
+									-1764418345,
+									10,
+									"1611927242.360953"
+								],
+								"9787":
+								[
+									706284550,
+									7,
+									"hex",
+									-1764418345,
+									11,
+									"1611927242.387359"
+								]
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hex",
+									"hsla",
+									"hex_compressed",
+									"hsl"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".less",
+								"current_syntax": "LESS/Syntaxes/LESS",
+								"enabled": true,
+								"last_updated": 1611912649.13,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"constant.other.color.rgb-value.css",
+									"constant.color.w3c-standard-color-name.css",
+									"meta.property-value.css"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9352.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "less/footer.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1483,
+								1483
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+								"#e7d9ffff"
+							],
+							"color_helper.preview_meta":
+							{
+								"1071":
+								[
+									-1321499411,
+									7,
+									"hex",
+									-1764418345,
+									6,
+									"1611948016.347107"
+								],
+								"680":
+								[
+									-1321499411,
+									7,
+									"hex",
+									-1764418345,
+									2,
+									"1611934819.912906"
+								]
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"webcolors",
+									"rgba",
+									"rgb",
+									"hex",
+									"hsla",
+									"hex_compressed",
+									"hsl"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".less",
+								"current_syntax": "LESS/Syntaxes/LESS",
+								"enabled": true,
+								"last_updated": 1611912649.13,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"constant.other.color.rgb-value.css",
+									"constant.color.w3c-standard-color-name.css",
+									"meta.property-value.css"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 372.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.546133784773,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "willberries.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
